@@ -8,17 +8,17 @@
 ## Installation
 
 + GitHub repository and deployed weboage links are easily accesed via the following links:
-    + https://github.com/priyanka-agrawal025
-    + https://priyanka-agrawal025.github.io/random-password-generator/
+    + https://github.com/priyanka-agrawal025/coding-quiz
+    + https://priyanka-agrawal025.github.io/coding-quiz/
 
 ## Usage
 
-![Webpage](assets/deployed-webpage.png)
+![Webpage](assets/images/deployed-webpage-quiz.png)
 
 + Instructions:
-    + Click the "generate password" button to begin the process of creating a randomized password
-    + Answer all prompts to generate the password
-    + Password should appear in text box once all prompts have been answered
+    + Click the "START QUIZ" button to begin testing
+    + Answer all questions and watch as the timer decrements
+    + At the end of the quiz, enter your intials and watch as you enter the score-board for this test
 
 ## License
 
